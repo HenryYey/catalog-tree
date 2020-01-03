@@ -1,4 +1,4 @@
-# catalog-tree
+# @hengye/catalog-tree
 快速生成项目目录结构
 平时写文档的黑科技
 
@@ -9,7 +9,7 @@
 ### 使用方法1： npm包
 
 ```shell
-npm install catalog-tree
+npm install @hengye/catalog-tree
 ```
 
 在package.json中定义
