@@ -1,0 +1,28 @@
+{
+  "name": "catalog-tree",
+  "version": "1.0.0",
+  "description": "快速生成项目目录结构,平时写文档的黑科技",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test mocha test/*.spec.js",
+    "tree": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryYey/catalog-tree.git"
+  },
+  "author": "hengye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenryYey/catalog-tree/issues"
+  },
+  "homepage": "https://github.com/HenryYey/catalog-tree#readme",
+  "dependencies": {
+    "cross-env": "^6.0.3"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "mocha": "^6.2.2",
+    "path": "^0.12.7"
+  }
+}
