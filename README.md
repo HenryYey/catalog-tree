@@ -12,16 +12,9 @@
 npm install @hengye/catalog-tree
 ```
 
-在package.json中定义
-```js
- "scripts": {
-    "tree": "node ./node_modules/src/index"
-  },
-```
-
 执行
 ```shell
-npm run tree
+node ./node_modules/@hengye/catalog-tree/src/index
 ```
 
 用完就可以uninstall了
@@ -47,7 +40,7 @@ loadTree(target, 1);
 
 执行
 ```shell
-c:/somepath/catalog-tree> npm run tree 
+c:/somepath/catalog-tree> node ./src/index
 ```
 
 ## Demo
