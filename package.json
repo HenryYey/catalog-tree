@@ -1,6 +1,6 @@
 {
   "name": "@hengye/catalog-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "快速生成项目目录结构,平时写文档的黑科技",
   "main": "index.js",
   "scripts": {
