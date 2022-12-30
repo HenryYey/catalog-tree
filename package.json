@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "fs": "0.0.1-security",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "path": "^0.12.7"
   }
 }
